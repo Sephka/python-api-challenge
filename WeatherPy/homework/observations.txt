@@ -1,0 +1,15 @@
+# Observations
+
+# 1: Cities in higher latitudes tend to be colder. Cities around 0-20 latitude
+# seem to be the warming, aside from a few outliers. This makes sense, as you
+# would expect it to be warmer around the equator.
+
+# 2: Cities around 0-20, and 40+ latitude, tend to have higher humidity levels.
+# Outliers for low humidity appear at -30 to -20, and 20 to 50.
+
+# 3: Cities tend to be more cloudy towards latitudes above 0. The northern
+# hemisphere seems to be more cloudy than the southern hemisphere.
+
+# 4: Perhaps related to cloudiness levels, wind speed seems to be pretty sparse
+# below -20 lat, but pick up more at you hit 0 and above, although the highest
+# outliers to appear aroudn -50.
